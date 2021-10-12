@@ -1,0 +1,22 @@
+.img1{
+        width: 50%;
+        height: 25%;
+        padding: 30px;
+        
+
+      }
+      .parent{
+        width: 50%;
+        border-color: blue;
+        border-style:dashed;
+        box-shadow: 15px 15px 15px blue ;
+        border-block-end: rgb(30, 19, 184);
+        border-block-end-style: dotted;
+        border-block-start-style: dotted;
+        padding: 30px;
+        margin-left: 20px;
+        margin-bottom: 25px;
+        
+
+      }
+
